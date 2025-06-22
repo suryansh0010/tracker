@@ -10,7 +10,7 @@ Install expense tracker app with npm
 
 
 ```bash
-  git clone 
+  git clone https://github.com/suryansh0010/tracker.git
   npm install
   cd expense_tracker
   npm run dev
