@@ -2,7 +2,7 @@
 
 A **simple and minimal** Expense Tracker built with **React** and **Vite**. Track your expenses and manage your budget efficiently.
 
-## 🚀 Live Demo
+## 🚀 Live Demo 
 
 👉 [View Live Project]https://tracker-three-pied.vercel.app/
  
