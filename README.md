@@ -7,7 +7,7 @@ A **simple and minimal** Expense Tracker built with **React** and **Vite**. Trac
 👉 [View Live Project]https://tracker-three-pied.vercel.app/
   
 
----
+--- 
  
 ## 📦 Installation
  
