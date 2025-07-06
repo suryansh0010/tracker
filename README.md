@@ -9,7 +9,7 @@ A **simple and minimal** Expense Tracker built with **React** and **Vite**. Trac
   
 
 --- 
-  
+   
 ## 📦 Installation
  
  
