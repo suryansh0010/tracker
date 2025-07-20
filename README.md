@@ -6,7 +6,7 @@ A **simple and minimal** Expense Tracker built with **React** and **Vite**. Trac
    
 ## 📦 Installation 
  
- 
+
 1. **Clone the repository**  
 ```bash
 git clone https://github.com/suryansh0010/tracker.git
