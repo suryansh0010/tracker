@@ -13,6 +13,7 @@ git clone https://github.com/suryansh0010/tracker.git
 cd tracker
 npm install
 npm run dev
+
   
 
 🛠️ Tech Stack
