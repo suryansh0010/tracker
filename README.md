@@ -1,4 +1,4 @@
- # 💰 Expense Tracker
+ # 💰 Expense Tracker 
  
 A **simple and minimal** Expense Tracker built with **React** and **Vite**. Track your expenses and manage your budget efficiently.
 
